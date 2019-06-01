@@ -1,0 +1,5 @@
+Bom dia
+Boa tarde
+Boa noite
+Vou estudar para SO
+Nao vou estudar para SO
